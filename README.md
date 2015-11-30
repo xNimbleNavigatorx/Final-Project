@@ -36,3 +36,4 @@ Your specification should **not** include the following types of information:
 * The language you will use to create it.
 * Names of any specific files in the project.
 * How you will structure the classes, functions and code in your program.
+* The name of any files or tools that you will use to design the program.
