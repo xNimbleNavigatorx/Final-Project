@@ -16,7 +16,7 @@ A functional specification describes in great detail how a device or program wil
 outside user. That is, it treats all hardware as a "black box", the contents of which are completely
 unknown to the user. The functional specification should include sections with the following information:
 
-Your specification should include the following types of information:
+Your specification **should include** the following types of information:
 
 * A title. Replace the title at the beginning of this document.
 * Summary or introduction. In general, in a few lines or less, what is your program about or what is it about?
@@ -28,4 +28,11 @@ Your specification should include the following types of information:
   change in response to user input?
 * Does the program respond to mouse input? What, exactly, does the mouse do?
 * Does the program respond to keyboard input? How?
+* What graphical assets will be used?
 * Does the user have to do anything to install the program?
+
+Your specification should **not** include the following types of information:
+
+* The language you will use to create it.
+* Names of any specific files in the project.
+* How you will structure the classes, functions and code in your program.
