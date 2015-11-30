@@ -2,7 +2,7 @@
 
 Fork this repository to begin working on your final project. Then do the following:
 
-* Edit this THIS to describe the **functionality** of your project.
+* Edit this THIS README document to describe the **functionality** of your project.
 * Edit the file clled "design.md" to describe the **design** of your project.
 * Add your python sources.
 * When the project is finished, make  pull request to let me know you're finished.
