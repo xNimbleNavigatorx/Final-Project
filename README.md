@@ -6,4 +6,3 @@ Fork this repository to begin working on your final project. Then do the followi
 * Edit the file called "design.md" to describe the **design** of your project.
 * Add your python sources.
 * When the project is finished, make  pull request to let me know you're finished.
-* If working with a partner, what is the Github ID of the partner.
